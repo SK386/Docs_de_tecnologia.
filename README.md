@@ -23,8 +23,8 @@ serem cumpridos.
 
 ## Como eu posso ajudar no projeto?
 Você pode entrar no servidor do meu discord e me dizer se há algum problema de escrita, incoerencia ou até mesmo adicionando um pouco mais do que você sabe junto a esse 
-projeto. Ou se você acha que o que eu fiz te ajudou e se quiser doar uma quantia de dinheiro pra mim, aqui está a minha chave Pix: arturoliveira886@gmail.com
-eu serei eternamente grato por isso, e me deixará motivado a continuar mais e mais esse projeto.
+projeto. Ou se você acha que o que eu fiz te ajudou e se quiser doar uma quantia de dinheiro pra mim, aqui está a minha chave Pix: arturoliveira886@gmail.com .
+Eu serei eternamente grato por isso, e me deixará motivado a continuar mais e mais esse projeto.
 
 ## Por que decidiu fazer tudo isso?
 Porque eu amo fazer o que eu faço, ajudar os outros, aprender programação, aprender sobre sistemas operacionais, aprender sobre tudo isso, é algo que eu amo fazer.
