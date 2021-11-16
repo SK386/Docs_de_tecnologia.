@@ -28,3 +28,6 @@ eu serei eternamente grato por isso, e me deixará motivado a continuar mais e m
 
 ## Por que decidiu fazer tudo isso?
 Porque eu amo fazer o que eu faço, ajudar os outros, aprender programação, aprender sobre sistemas operacionais, aprender sobre tudo isso, é algo que eu amo fazer.
+
+## Qual é a frequência das atualizações?
+Bem sempre que possivel eu coloco um conteudo a mais e eu darei "upload" no GitHub, e como estou estudando bastante no momento então vai ter alterações bem frequentes.
