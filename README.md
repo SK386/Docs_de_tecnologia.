@@ -2,7 +2,7 @@
 
 ## O que é essa documentação?
 Está é uma documentação que estou fazendo conforme assisto videos, leio livros, fazendo cursos e claro tudo isso e anotando, é altamente recomendado para o pessoal que
-está começando e que tem um certo conhecimento na área.
+está começando e que tem um certo conhecimento na área. (obs: pode ser que algumas coisas não estejam finalizadas.)
 
 ## Qual é a razão pra ter começado isso?
 Como eu não apoio a pirataria de livros e muito menos o negocio de repassar isso pra frente, logo eu quis fazer diferente e ajudar ao invés de simplesmente 
