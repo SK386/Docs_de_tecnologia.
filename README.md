@@ -22,7 +22,7 @@ E a resposta é... Sim, of course! isso deixaria minhas docs mais intuitivas pra
 serem cumpridos.
 
 ## Como eu posso ajudar no projeto?
-Você pode entrar no servidor do meu discord e me dizer se há algum problema de escrita, incoerencia ou até mesmo adicionando um pouco mais do que você sabe junto a esse 
+Você pode entrar no servidor do meu discord {https://discord.gg/azAuQ7Cq} e me dizer se há algum problema de escrita, incoerencia ou até mesmo adicionando um pouco mais do que você sabe junto a esse 
 projeto. Ou se você acha que o que eu fiz te ajudou e se quiser doar uma quantia de dinheiro pra mim, aqui está a minha chave Pix: arturoliveira886@gmail.com .
 Eu serei eternamente grato por isso, e me deixará motivado a continuar mais e mais esse projeto.
 
